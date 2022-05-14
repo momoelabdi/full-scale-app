@@ -9,7 +9,7 @@ class Header extends Component {
 
           <a href="index.html" className="logo d-flex align-items-center">
             <img src="assets/img/logo.png" alt="nvba" />
-            <span>FlexStart</span>
+            <span>Hunter</span>
           </a>
 
           <nav id="navbar" className="navbar">
