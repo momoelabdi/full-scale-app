@@ -163,7 +163,7 @@ function App() {
 
               <div className="col-lg-3 col-md-6">
                 <div className="count-box">
-                  <i className="bi bi-journal-richtext"></i>
+                  <i className="bi bi-journal-richtext aaa"></i>
                   <div>
                     <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" className="purecounter"></span>
                     <p>Projects</p>
@@ -173,7 +173,7 @@ function App() {
 
               <div className="col-lg-3 col-md-6">
                 <div className="count-box">
-                  <i className="bi bi-headset"></i>
+                  <i className="bi bi-headset bbb"></i>
                   <div>
                     <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" className="purecounter"></span>
                     <p>Hours Of Support</p>
@@ -493,7 +493,7 @@ function App() {
 
               <div className="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
                 <div className="box">
-                  <h3>Free Plan</h3>
+                  <h3 className="ccc">Free Plan</h3>
                   <div className="price"><sup>$</sup>0<span> / mo</span></div>
                   <img src="assets/img/pricing-free.png" className="img-fluid" alt="" />
                   <ul>
@@ -510,7 +510,7 @@ function App() {
               <div className="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                 <div className="box">
                   <span className="featured">Featured</span>
-                  <h3>Starter Plan</h3>
+                  <h3 className="ddd">Starter Plan</h3>
                   <div className="price"><sup>$</sup>19<span> / mo</span></div>
                   <img src="assets/img/pricing-starter.png" className="img-fluid" alt="" />
                   <ul>
@@ -542,7 +542,7 @@ function App() {
 
               <div className="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                 <div className="box">
-                  <h3>Ultimate Plan</h3>
+                  <h3 className="eee">Ultimate Plan</h3>
                   <div className="price"><sup>$</sup>49<span> / mo</span></div>
                   <img src="assets/img/pricing-ultimate.png" className="img-fluid" alt="" />
                   <ul>
